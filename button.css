@@ -1,0 +1,20 @@
+.editButtonInHeader {
+    font-weight: bold;
+    font-size: 90%;
+    background-color: #eaf1f7;
+    color: #336699;
+    border-left: 1px solid #eaf1f7;
+    border-top: 1px solid #eaf1f7;
+    border-right: 1px solid #336699;
+    border-bottom: 1px solid #336699;
+    margin-right: 10px;
+    padding: 2px 5px 2px 5px;
+    border-radius:5px;
+}
+
+.editButtonInHeader:hover {
+    font-weight: bold;
+    color: #eaf1f7;
+    background-color: #336699;
+    margin-right: 10px;
+}
